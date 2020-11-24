@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/nurradin", {data:[{}],fetch:[],mutations:void 0});
